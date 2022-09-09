@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on NodeJS.<br>👯 I’m looking to collaborate on Technologies related to Node.<br>🌱 I’m currently learning Docker.<br>💬 Ask me about NodeJS, JavaScript, ExpressJS, MongoDB.<br>😄 Pronouns: Pratham
+🔭 I’m currently working on NodeJS.<br>👯 I’m looking to collaborate on Technologies related to Node.<br>🌱 I’m currently learning Docker.<br>💬 Ask me about NodeJS, JavaScript, ExpressJS, MongoDB.<br>😄 Pronouns: Pratham <br> <marquee>A day dreamer and night thinker :) </marquee>
 
 
 ## 🌐 Socials:
